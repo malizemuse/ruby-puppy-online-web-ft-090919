@@ -31,7 +31,7 @@ end
 
 # TEST CODE 
 
-snoopy = Dog.new("Snoopy")
+puts snoopy = Dog.new("Snoopy")
 
 
 
