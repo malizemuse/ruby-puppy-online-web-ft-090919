@@ -31,5 +31,5 @@ end
 
 # TEST CODE 
 
-
+snoopy = Dog.new("Snoopy")
 
